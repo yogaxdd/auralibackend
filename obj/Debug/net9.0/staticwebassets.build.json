@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2q3WCCR0twC5hJEEQwZk9ERxvpjeR7Uz8Tm1wLXtNLQ=",
+  "Source": "MySpotifyServer",
+  "BasePath": "_content/MySpotifyServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
